@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="augustus"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Augustus__|"
 echo "|__________| $merah"
 echo "                     _________________________"
 echo "                    | Ferramenta de login 1•  |"
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Augustus__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |    |"
+echo "    |      | Augustusbot |    |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -73,10 +73,10 @@ clear
 sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/Darkziinh/SITEX
-git clone https://github.com/Darkziinh/apikey
-git clone https://github.com/Darkziinh/testek
-cd darkbot3.0
+git clone https://github.com/augustuss77/SITEX
+git clone https://github.com/augustuss77/apikey
+git clone https://github.com/augustuss77/testek
+cd augustussbottest
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
