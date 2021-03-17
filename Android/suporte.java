@@ -5,5 +5,5 @@
  *
  * Date                  (06/12,15:35)
  *
- * author                (Dark YT)
+ * author                (Augustus)
  * Copyright notice      (bot com suporte a Android/Java)
