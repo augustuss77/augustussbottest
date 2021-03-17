@@ -1,5 +1,5 @@
-Pc = komputer * (darkbot3.0 + darkbot - dark)
+Pc = komputer * (augustussbottest + augustusbot - augustus)
            + 4 * bot; // PREFER
 
-Android = /0/android/suporte.java * (darkbot3.0 + dark
-                       - darkbot) + 4 * bot; // AVOID
+Android = /0/android/suporte.java * (augustussbottest + Augustus
+                       - augustusbot) + 4 * bot; // AVOID
