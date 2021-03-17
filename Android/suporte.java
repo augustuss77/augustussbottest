@@ -1,5 +1,5 @@
 /*
- * Classname             (darkbot3.0)
+ * Classname             (augustussbottest)
  *
  * Version information   (3.0)
  *
