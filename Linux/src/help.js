@@ -2,11 +2,11 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ 𝐀𝐔𝐆𝐔𝐒𝐓𝐔𝐒 𝐁𝐎𝐓
 ╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
-╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐀𝐔𝐆𝐔𝐒𝐓𝐔𝐒
+╠➥ *wa.me/+556298159845*
+╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: PAI TÁ ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
 ║
@@ -175,16 +175,20 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: 𝐀𝐔𝐆𝐔𝐒𝐓𝐔𝐒*
+║ *WPP: wa.me/556298159845*
+║ 
+║ *CRÉDITOS AO DARK (CRIADOR DA BASE DO BOT)*
+║ 
+║ *INSTA DO DARK: th.darkys*
+║ *WPP DO DARK: wa.me/5521997123716*
+║ *CANAL DO DARK: https://bit.ly/3qAjeNz*
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 𝐀𝐔𝐆𝐔𝐒𝐓𝐔𝐒 𝐁𝐎𝐓 〙`
 }
 
 //Online.database
